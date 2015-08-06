@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Template</string>
+    <string name="text_main">I am Text</string>
+    <string name="drawer_message">Drawer</string>
+</resources>
